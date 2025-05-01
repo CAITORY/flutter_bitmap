@@ -28,3 +28,6 @@
 build/
 ios/.generated/
 android/.cxx/
+
+# FVM Version Cache
+.fvm/
